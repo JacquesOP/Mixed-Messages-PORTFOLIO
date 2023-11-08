@@ -5,7 +5,7 @@
 
 ## Table of contents
 
-- [Mixed Messages - Portfolio Project 1](#mixed-messages---portfolio-project-1)
+Mixed Messages - Portfolio Project 1
   - [Table of contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
