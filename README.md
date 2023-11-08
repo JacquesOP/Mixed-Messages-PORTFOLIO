@@ -19,4 +19,4 @@ This is a project for the **"Full-Stack Engineer"** Path on [CodeCademy](https:/
 ## Technologies
 
 * JavaScript / **ES6**
-
+* 
