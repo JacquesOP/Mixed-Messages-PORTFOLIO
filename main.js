@@ -31,7 +31,6 @@ const totalObjectMessages = [
 
 // This block will randomly select an object in the global array
 const randomBlockMessage = (array) =>{
-
     let randomNumber = Math.floor(Math.random() * array.length);
     
     const selectObject = array[randomNumber];
@@ -44,29 +43,22 @@ const blockMessage = randomBlockMessage(totalObjectMessages);
 
 // This block will iterate through blockMessage and return a random message 
 const messageGenerator = (blockMessage) =>{
-
     const newMessage = [];
 
     for(const part in blockMessage){
-
         const randomMessage = Math.floor(Math.random() * blockMessage[part].length);
 
         newMessage.push(blockMessage[part][randomMessage]);
-
     }
 
     if((newMessage[0]==='People' || newMessage[0]==='They') && (newMessage[1].includes('us'))){
-            
             newMessage[1] = 'must be willing to let go of the life we planned so as to have the life that is waiting for them.';
 
         }else if(newMessage[0] ==='You' && newMessage[1].includes('they')){
-
             newMessage[1] = 'begin to become successful the minute you decide to be.';
-
     }
 
     return newMessage.join(' ');
-
 };
 
 // Displaying the final message
