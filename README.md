@@ -5,7 +5,7 @@
 
 ## Table of contents
 
-* General Info
+* [General Info](#general-info)
 * Technologies
 * Setup
 * Status
