@@ -15,6 +15,7 @@
   - [Contact](#contact)
 
 ## General Info
+
 This is a project for the **"Full-Stack Engineer"** Path on [CodeCademy](https://www.codecademy.com/learn)<br>
 > Hope you will find it useful
 
@@ -38,4 +39,4 @@ This project is based on **CodeCademy** examples
 
 ## Contact
 
-Project created by @JacquesOP - feel free to contact me
+Project created by [@JacquesOP](https://github.com/JacquesOP) - feel free to contact me
