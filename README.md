@@ -15,7 +15,8 @@
 
 ## General Info
 
-This is a project for the **"Full-Stack Engineer"** Path on [CodeCademy](https://www.codecademy.com/learn)<br>
+This is a JavaScript Portfolio Project called Mixed Messages<br> 
+And is based from [CodeCademy](https://www.codecademy.com/learn)'s **"Full-Stack Engineer"** career path.
 > Hope you will find it useful
 
 ## Technologies
